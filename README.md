@@ -1,6 +1,7 @@
 # GraphAlgorithmVisualizer
 An application for visualizing graph algorithms. A*, Prim's, Kruskal's and more!
 
+![algoviz](https://github.com/ColeStrickler/GraphAlgorithmVisualizer/assets/82488869/3a84d318-5993-4732-b5ee-ce737bb6027a)
 
 # Usage
 Use spacebar to cycle through modes
